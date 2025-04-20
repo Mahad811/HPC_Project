@@ -4,7 +4,9 @@
 
 --Go to relevant Version directory in Terminal and just run these commands:
 
-make clean
-make
+-make clean
+
+
+-make
 
 
